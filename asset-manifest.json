@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/futbl/static/css/main.0f5eb6c3.css",
-    "main.js": "/futbl/static/js/main.86a4569d.js",
+    "main.js": "/futbl/static/js/main.8b3e1125.js",
     "static/js/787.b3f9d252.chunk.js": "/futbl/static/js/787.b3f9d252.chunk.js",
     "index.html": "/futbl/index.html",
     "main.0f5eb6c3.css.map": "/futbl/static/css/main.0f5eb6c3.css.map",
-    "main.86a4569d.js.map": "/futbl/static/js/main.86a4569d.js.map",
+    "main.8b3e1125.js.map": "/futbl/static/js/main.8b3e1125.js.map",
     "787.b3f9d252.chunk.js.map": "/futbl/static/js/787.b3f9d252.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f5eb6c3.css",
-    "static/js/main.86a4569d.js"
+    "static/js/main.8b3e1125.js"
   ]
 }
